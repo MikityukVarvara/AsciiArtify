@@ -62,7 +62,8 @@
 3. Перевірте стан кластера: `kubectl cluster-info`.
 4. Розгорніть застосунок "Hello World".
 
-![demo_cluster](https://github.com/MikityukVarvara/AsciiArtify/assets/75087866/71272e2c-2695-4d21-9d3f-20eb6a777864)
+![Sequence 01](https://github.com/MikityukVarvara/AsciiArtify/assets/75087866/a9496819-0ade-4460-ac36-db6c0df70970)
+
 
 ## Висновки
 
